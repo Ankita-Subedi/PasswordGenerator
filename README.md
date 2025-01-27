@@ -33,3 +33,5 @@ npm install
 To start the application, run:
 bash
 npm run dev
+
+[Click here to view live](https://password-generator-mu-wine-75.vercel.app/)
