@@ -10,7 +10,7 @@ This project is a simple password generator application built with React. It all
 
 ## Components
 ### PswChanger
-The `PswChanger` component is responsible for generating passwords. It includes:
+The PswChanger component is responsible for generating passwords. It includes:
 - A range input to select the password length.
 - Checkboxes to include numbers and special characters.
 - A read-only input field displaying the generated password.
@@ -23,14 +23,13 @@ The `PswChanger` component is responsible for generating passwords. It includes:
 
 ## Installation
 To run this project locally, clone the repository and install the dependencies:
-```bash
+bash
 git clone <repository-url>
 cd <project-directory>
 npm install
-```
+
 
 ## Running the Application
 To start the application, run:
-```bash
+bash
 npm run dev
-```
